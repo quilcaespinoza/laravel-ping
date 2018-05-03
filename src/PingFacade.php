@@ -3,7 +3,7 @@
 namespace Shimomo\Laravel;
 
 /**
- * @author shimomo
+ * @author shimomo :O
  */
 class PingFacade extends \Illuminate\Support\Facades\Facade
 {
